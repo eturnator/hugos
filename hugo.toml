@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = "Eces' Ananke Site in Hugo5"
+title = "Ece's Site Built in Ananke Theme with Hugo5"
 theme = 'ananke'
 
