@@ -1,7 +1,7 @@
 ---
 title: "Ece Post1"
 date: 2023-08-12T21:32:02-04:00
-draft: true
+draft: false
 ---
 
 # Introduction
